@@ -1,2 +1,0 @@
-# Dederderg, Australia
-

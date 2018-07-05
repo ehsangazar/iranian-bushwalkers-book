@@ -2,6 +2,5 @@
 
 * [Murrindindi, VIC, Australia](README.md)
 * [Iranian Bushwalkers](iranian-bushwalkers.md)
-* [Murrindindi, VIC, Australia](murrindindi-vic-australia.md)
-* [Dederderg, Australia](dederderg-australia.md)
+* [Keppell Lookout and Steavenson Falls](keppell-lookout-and-steavenson-falls.md)
 
